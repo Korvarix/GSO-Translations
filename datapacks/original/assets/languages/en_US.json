@@ -1,9 +1,30 @@
 {
-    "_comment_Dungeons" : "",
+    "_comment_Core_Systems" : "",
+    "core_systems.category.original.person.helmet" : "Personal Helmet",
+    "core_systems.category.original.person.suit" : "Personal Suit",
+    "core_systems.category.original.person.gloves" : "Personal Gloves",
+    "core_systems.category.original.person.boots" : "Personal Boots",
+    "core_systems.category.original.person.accessory_1" : "Personal Accessory 1",
+    "core_systems.category.original.person.accessory_2" : "Personal Accessory 2",
+    "core_systems.category.original.person.accessory_3" : "Personal Accessory 3",
+    "core_systems.category.original.person.accessory_4" : "Personal Accessory 4",
+    "core_systems.category.original.person.weapon" : "Personal Weapon",
+    "core_systems.category.original.ship.hull" : "Ship Hull",
+    "core_systems.category.original.ship.shields" : "Ship Shield",
+    "core_systems.category.original.ship.engines" : "Ship Engine",
+    "core_systems.category.original.ship.weapon_1" : "Ship Weapon 1",
+    "core_systems.category.original.ship.weapon_2" : "Ship Weapon 2",
+    "core_systems.category.original.ship.thruster_1" : "Ship Thruster 1",
+    "core_systems.category.original.ship.thruster_2" : "Ship Thruster 2",
+    "core_systems.category.original.ship.thruster_3" : "Ship Thruster 3",
+    "core_systems.category.original.ship.thruster_4" : "Ship Thruster 4",
+
+
+        "_comment_Dungeons" : "",
     "dungeons.original.pirate.pirates_outpost" : "Pirate Outpost",
     "dungeons.original.pirate.pirates_outpost.desc" : "A hidden supply station belonging to the Black Mark syndicate.",
-    "dungeons.original.tutorial.pirates_outpost" : "Tutorial",
-    "dungeons.original.tutorial.pirates_outpost.desc" : "A one time dungeon.",
+    "dungeons.original.tutorial.tutorial" : "Tutorial",
+    "dungeons.original.tutorial.tutorial.desc" : "A one time dungeon.",
 
 
     "_comment_Enemies" : "",
@@ -52,8 +73,8 @@
     "items.materials.original.ores.copper.desc" : "A pile of copper ore.",
     "items.materials.original.ores.gold" : "Gold Ore",
     "items.materials.original.ores.gold.desc" : "A pile of gold ore.",
-    "items.materials.original.ores.ilmenite" : "Ilmenite Ore",
-    "items.materials.original.ores.ilmenite.desc" : "A pile of ilmenite ore.",
+    "items.materials.original.ores.ilunite" : "Ilunite Ore",
+    "items.materials.original.ores.ilunite.desc" : "A pile of ilunite ore.",
     "items.materials.original.ores.iron" : "Iron Ore",
     "items.materials.original.ores.iron.desc" : "A pile of iron ore.",
     "items.materials.original.ores.wolfrinite" : "Wolfrinite Ore",
@@ -74,7 +95,13 @@
 
 
     "_comment_Shop" : "",
+    "shop.category.original.consumables" : "Consumables",
+    "shop.category.original.defence" : "Defence",
+    "shop.category.original.featured" : "Featured",
     "shop.category.original.materials" : "Materials",
+    "shop.category.original.premium" : "Premium",
+    "shop.category.original.ships" : "Ships",
+    "shop.category.original.weapons" : "Weapons",
 
 
     "_comment_Skills" : "",
