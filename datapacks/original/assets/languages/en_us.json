@@ -56,8 +56,8 @@
     "items.materials.original.ores.ilmenite.desc" : "A pile of ilmenite ore.",
     "items.materials.original.ores.iron" : "Iron Ore",
     "items.materials.original.ores.iron.desc" : "A pile of iron ore.",
-    "items.materials.original.ores.wolfrinite" : "Wolframite Ore",
-    "items.materials.original.ores.wolfrinite.desc" : "A pile of wolframite ore.",
+    "items.materials.original.ores.wolfrinite" : "Wolfrinite Ore",
+    "items.materials.original.ores.wolfrinite.desc" : "A pile of wolfrinite ore.",
     "items.materials.original.plating.basic_ship_plating" : "Ship Plating",
     "items.materials.original.plating.basic_ship_plating.desc" : "Just basic ship plating.",
 
@@ -80,7 +80,7 @@
     "_comment_Skills" : "",
     "skills.category.original.combat" : "Combat",
     "skills.category.original.combat.weapon_effiency" : "Weapon Effiency",
-    "skills.category.original.combat.weapon_effiency.desc" : "Unknown Mysterious Tech",
+    "skills.category.original.combat.weapon_effiency.desc" : "Let's get those weapons better!",
     "skills.category.original.crafting" : "Crafting",
     "skills.category.original.crafting.blacksmithing" : "Blacksmithing",
     "skills.category.original.crafting.blacksmithing.desc" : "To forge the basics.",
@@ -90,7 +90,7 @@
     "skills.category.original.science.alien_technology" : "Alien Technology",
     "skills.category.original.science.alien_technology.desc" : "Unknown Mysterious Tech",
     "skills.category.original.science.biology_engineering" : "Biology Engineering",
-    "skills.category.original.science.biology_engineering.desc" : "Unknown Mysterious Tech",
+    "skills.category.original.science.biology_engineering.desc" : "Maybe we will unlock bio-tech?",
 
 
     "_comment_Stats" : "",
@@ -122,5 +122,5 @@
     "category.tabs.original.dungeons" : "Dungeons",
     "category.tabs.original.inventory" : "Inventory",
     "category.tabs.original.shop" : "Shop",
-    "category.tabs.original.skills" : "Skills",
+    "category.tabs.original.skills" : "Skills"
 }
