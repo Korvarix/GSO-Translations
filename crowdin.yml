@@ -1,0 +1,3 @@
+files:
+  - source: /datapacks/original/assets/languages
+    translation: '%locale_with_underscore%.json'
